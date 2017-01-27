@@ -1,0 +1,10 @@
+Flask
+python-dateutil
+flask_restful
+Flask-Babel
+Flask-Login
+requests
+python-slugify
+speaklater
+Flask-Assets
+jsmin
